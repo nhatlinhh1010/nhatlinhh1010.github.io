@@ -1,0 +1,111 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.bai1 {
+  display: flex;
+  margin-bottom: 100px;
+}
+.khoi1 {
+  background-color: blanchedalmond;
+  height: 400px;
+  width: 50%;
+}
+.layout1 {
+  width: 50%;
+}
+
+.khoi2 {
+  background-color: blue;
+  height: 200px;
+  width: 100%;
+}
+.khoi3 {
+  background-color: coral;
+  height: 200px;
+  width: 100%;
+}
+p {
+  margin: 0;
+  color: rgb(226, 43, 171);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bai2 {
+  display: flex;
+  margin-bottom: 100px;
+}
+.khoi4 {
+  background-color: blanchedalmond;
+  height: 400px;
+  width: 33.333333%;
+}
+.khoi5 {
+  background-color: blue;
+  height: 400px;
+  width: 33.333333%;
+}
+.khoi6 {
+  background-color: coral;
+  height: 400px;
+  width: 33.333333%;
+}
+.bai2 div {
+  margin: 0;
+  color: rgb(226, 43, 171);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bai3 {
+  display: flex;
+  margin-bottom: 100px;
+}
+.khoi7 {
+  background-color: blanchedalmond;
+  height: 400px;
+  width: 33.333333%;
+}
+.khoi8 {
+  background-color: blue;
+  height: 400px;
+  width: 33.333333%;
+  margin: 0 20px 0;
+}
+.khoi9 {
+  background-color: coral;
+  height: 400px;
+  width: 33.333333%;
+}
+.bai3 div {
+  color: rgb(226, 43, 171);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bai4 {
+  display: flex;
+  margin-bottom: 100px;
+}
+.khoi10 {
+  background-color: blanchedalmond;
+  height: 400px;
+  width: 50%;
+  margin-right: 20px;
+}
+.layout2 {
+  width: 50%;
+}
+
+.khoi11 {
+  background-color: blue;
+  height: 200px;
+  width: 100%;
+}
+.khoi12 {
+  background-color: coral;
+  height: 200px;
+  width: 100%;
+}
