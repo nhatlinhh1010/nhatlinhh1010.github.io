@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+h1{
+    text-align: center;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 15px;
+    margin-bottom: 50px;
+}
+.sanpham{
+    width:calc(33.333333% - 30px);
+    margin: 15px;
+}
+img{
+    max-width: 100%;
+    border: solid  black;
+}
+.ten{
+    margin: 10px 0;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.gia{
+    margin: 15px 0;
+    color: crimson;
+    font-size: 1.3rem;
+}
