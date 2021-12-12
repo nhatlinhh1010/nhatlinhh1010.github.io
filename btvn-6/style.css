@@ -11,6 +11,7 @@ h1{
     flex-wrap: wrap;
     padding: 0 15px;
     margin-bottom: 50px;
+    background-color: rgb(247, 240, 230);
 }
 .sanpham{
     width:calc(33.333333% - 30px);
